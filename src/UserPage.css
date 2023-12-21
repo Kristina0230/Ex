@@ -1,0 +1,26 @@
+
+.user-page {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .user-page h1 {
+    margin-bottom: 1.5rem;
+  }
+  
+  .user-details-container {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 0 auto;
+    max-width: 400px;
+  }
+  
+  .user-details img {
+    border-radius: 50%;
+    margin-bottom: 0.5rem;
+  }
+  
+  .user-details p {
+    margin-bottom: 0.5rem;
+  }
+  
